@@ -1,0 +1,1 @@
+# Proje-BMW-Bayerische-Motoren-Werke-GmbH-Apache-Hive-ile-HQL-Tabanli-Veri-Analizi
